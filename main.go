@@ -1,3 +1,9 @@
 package main
 
-wow really
+import(
+	"fmt"
+)
+
+func main() {
+    fmt.Println("Hello wprld")
+}
