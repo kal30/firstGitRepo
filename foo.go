@@ -5,6 +5,6 @@ import(
 )
 
 func foo() {
-    fmt.Println("foo man chew")
+    fmt.Println("foo man chu")
 }
 
